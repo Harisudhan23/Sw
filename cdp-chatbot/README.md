@@ -25,6 +25,7 @@ This project is a Flask-based chatbot that answers "how-to" questions about four
 3. Run the application:
    ```sh
    python app.py
+   streamlit run app.py
    ```
 
 ## API Endpoints
@@ -38,7 +39,8 @@ This project is a Flask-based chatbot that answers "how-to" questions about four
 - LangChain
 - Google Generative AI (Gemini Pro)
 - Python
+- streamlit
 
-## Future Enhancements
-- UI for chatbot
-- Cross-CDP comparison feature
+## License
+  This project is open-source and free to use.
+

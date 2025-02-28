@@ -31,7 +31,5 @@ This project is a simple Google Sheets-like web application built with React.js.
 - React Google Charts
 - CSS for styling
 
-## Future Enhancements
-- Drag and drop functionality
-- Advanced formulas and cell referencing
-- Data persistence
+## License
+  This project is open-source and free to use.
