@@ -13,7 +13,7 @@ This project is a Flask-based chatbot that answers "how-to" questions about four
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/cdp-chatbot.git
+   git clone https://github.com/Harisudhan23/cdp-chatbot.git
    cd cdp-chatbot
    ```
 
